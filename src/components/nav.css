@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+  }
+  .main{
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 10px;
+    background-color: blueviolet;
+    color: white;
+    
+  }
+  .suba button{
+    padding: 5px;
+    font-size: 15px;
+    width: 70px;
+    border: none;
+    background-color: transparent;
+    color: white;
+  }
+  .subb button{
+    padding: 5px;
+    font-size: 15px;
+    width: 70px;
+    border: none;
+    background-color: transparent;
+    color: white;
+  }
+  .subc button{
+    padding: 5px;
+    font-size: 15px;
+    width: 70px;
+    border: none;
+    background-color: transparent;
+    color: white;
+  }
+  .suba{
+    display: flex;
+    gap: 10px;
+  }
+  .subb{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }.subc{
+    display: flex;
+    gap: 10px;
+  }
+  .mainb{
+    background-image: url("https://marketingaccesspass.com/wp-content/uploads/2015/10/Podcast-Website-Design-Background-Image.jpg");
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    color: white;
+  }
+  .mainb h1{
+    font-size: 70px;
+  }
+  .mainb p{
+    font-size: 20px;
+  }
+  .mainb button{
+    font-size: 15px;
+    border: white solid 3px;
+    background-color:transparent;
+    width: 20%;
+    padding: 10px;
+    color: white;
+  }
+  
